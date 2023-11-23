@@ -2,8 +2,8 @@
 
 provider "aws" {
   region = "eu-west-3"
-  access_key = "AKIA3ET4HPKOCEA2Y5EM"
-  secret_key = "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"
+  access_key = "*"
+  secret_key = "*"
 }
 
 resource "aws_vpc" "tst_vpc" {
