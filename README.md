@@ -1,6 +1,6 @@
 # angelo.magalhaes-ex2
 exercice 2  hello vpc
-crée un nouveau dossier pour y crée le fichier main.tf et en ajoutant terraform.exe dans ce dossier exempl: 
+créeation  d'un nouveau dossier pour y crée le fichier main.tf et en ajoutant terraform.exe dans ce dossier exemple: 
 
 ![image](https://github.com/Lo0kii/angelo.magalhaes-ex2/assets/109228312/76ac004d-4f95-4441-89ec-c24ef2b946b3)
 
@@ -27,10 +27,10 @@ Après l'exécution de terraform apply, Terraform créera le VPC et le subnet se
 
 ne pas oublier de destroy a la fin ( ./terraform destroy ) 
 
-problème rencontrer: 
-- le choix de la region , je me suis melanger dans les choix de region surtout concernant  "availability_zone"
-- je me suis melanger dans le nom des ressource
-- en global c'etait pas dur juste la premiere prise en main avec des erreurs de golmonds
+problèmes rencontrés: 
+- le choix de la région , je me suis mélangé dans les choix de région surtout concernant  "availability_zone"
+- je me suis mélanger dans le nom des ressources
+- en global c'etait pas dur juste la première prise en main avec des erreurs de golmonds
 
 
 
